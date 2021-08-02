@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+__pycashe__
+ptb.py
+ptb.train.npy
+ptb.train.txt
+ptb.vocab.pkl
