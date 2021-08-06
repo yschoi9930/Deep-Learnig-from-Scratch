@@ -61,12 +61,6 @@ CNN의 매커니즘을 이해와 구현하는 과정 확인
 
 
 
-## Part 3 Review : word2vec
-
-> 추론 기반 기법 중 신경망을 사용한 word2vec 구조를 살펴보고 구현하는 파트.
-
-단순하게 word2vec의 기본 개념을 이해하고 구현해보며 이해를 했다. 뒷부분을 배우고 나면 더 확실히 이해갈 것들이 있어 넘긴 부분들이 조금 있었다.
-
 
 
 ## Part 4 Review : Embedding and Negative Sampling
